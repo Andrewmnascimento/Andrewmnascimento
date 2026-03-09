@@ -92,10 +92,12 @@ https://github.com/Andrewmnascimento/codecrafters-shell-c
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrewmnascimento&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewmnascimento&layout=compact)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Andrewmnascimento&show_icons=true&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Andrewmnascimento&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa-rickstaa.vercel.app/api/top-langs/?username=Andrewmnascimento&layout=compact&theme=tokyonight)
 ---
 
 # 🎯 Goals
