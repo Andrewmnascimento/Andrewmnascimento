@@ -93,7 +93,7 @@ https://github.com/Andrewmnascimento/codecrafters-shell-c
 # 📊 GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Andrewmnascimento&show_icons=true&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Andrewmnascimento&theme=tokyo-night)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Andrewmnascimento&theme=tokyonight)
 
