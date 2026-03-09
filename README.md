@@ -77,17 +77,6 @@ Features:
 Repository:
 https://github.com/Andrewmnascimento/codecrafters-shell-c
 
----
-
-# 📊 GitHub Stats
-
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Andrewmnascimento&theme=tokyo-night)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Andrewmnascimento&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa-rickstaa.vercel.app/api/top-langs/?username=Andrewmnascimento&layout=compact&theme=tokyonight)
----
 
 # 🎯 Goals
 
