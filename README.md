@@ -26,6 +26,7 @@ I enjoy building projects that combine **low-level programming concepts** with *
 - Express
 
 ### Databases
+- SQL ( specially SQLite )
 - MongoDB
 
 ### Tools
